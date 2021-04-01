@@ -1,3 +1,3 @@
-module github.com/wxb/tjson
+module github.com/wxb/tx
 
-go 1.14
+go 1.16
